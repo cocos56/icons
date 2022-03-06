@@ -1,2 +1,2 @@
-python3 000.py
+python 000.py
 pause
